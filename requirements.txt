@@ -1,0 +1,7 @@
+pyspark==3.4.1
+pandas
+requests
+nltk
+vaderSentiment
+streamlit
+plotly
